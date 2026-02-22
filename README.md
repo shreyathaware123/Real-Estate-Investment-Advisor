@@ -1,6 +1,4 @@
-# 🏠 Real Estate Investment Advisor
-
-### Excel | Python | Power BI (2 Interactive Dashboards)
+# 🏠 Real Estate Investment Advisor ( Excel | Python | Power BI )
 
 This project delivers a comprehensive real estate investment analysis solution designed to identify profitable property opportunities using historical pricing data, appreciation trends, and future value forecasting.
 
