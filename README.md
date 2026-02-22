@@ -1,10 +1,10 @@
-# 🏠 Real Estate Investment Advisor ( Excel | Python | Power BI )
+# 🏠 Real Estate Investment Advisor 
 
 This project delivers a comprehensive real estate investment analysis solution designed to identify profitable property opportunities using historical pricing data, appreciation trends, and future value forecasting.
 
 The project combines **Excel for data structuring**, **Python for analytical modeling**, and **Power BI for interactive visualization and business intelligence reporting**.
 
-# ➡️ Project Objective
+# ➡️ Project Objective ( Excel | Python | Power BI )
 
 To build a data-driven system that:
 
